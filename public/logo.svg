@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 260" role="img" aria-label="QuizLab Studio">
+  <!-- лучи -->
+  <g stroke="#F7941D" stroke-width="5" stroke-linecap="round">
+    <path d="M52 28l12 8" />
+    <path d="M46 62h14" />
+    <path d="M188 28l-12 8" />
+  </g>
+
+  <!-- книга -->
+  <path d="M14 100l106 38v112L14 188z" fill="#1E6FD9" />
+  <path d="M226 100l-106 38v112l106-62z" fill="#1558B8" />
+  <path d="M34 80l62 30-22 8-40-22z" fill="#1558B8" />
+  <path d="M232 152v62l-84 30z" fill="#F7941D" />
+
+  <!-- лампочка -->
+  <path d="M120 24l38 22v44l-38 22-38-22V46z" fill="#F7941D" />
+  <path d="M120 24v44M82 46l38 22 38-22M120 68v44M82 90l38-22 38 22" fill="none" stroke="#FFC46B" stroke-width="3" stroke-linejoin="round" />
+  <path d="M120 24l38 22-38 22z" fill="#FFA93A" />
+  <path d="M90 100h60l-10 24h-40z" fill="#F7941D" />
+  <path d="M104 124h32v8h-32zM107 136h26v8h-26zM111 148h18v7h-18z" fill="#fff" />
+  <path d="M104 124h32M107 136h26M111 148h18" stroke="#6FA8F0" stroke-width="2" />
+
+  <!-- значок «проверено» -->
+  <path d="M180 74a24 24 0 1 1-6 47l-14 8 6-16a24 24 0 0 1 14-39z" fill="#1E6FD9" stroke="#fff" stroke-width="3" stroke-linejoin="round" />
+  <path d="M170 98l8 8 15-17" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
